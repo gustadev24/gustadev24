@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 😃, I'm Luis Sequeiros</h1>
 
-In this world, knowed like **@gusCreator**
+In this world, knowed like **@gustadev24**
 
 ## 💻 About me
 - 👀 I’m interested in web programming
